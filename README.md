@@ -4,20 +4,20 @@ This repo contains a practical, vendor-agnostic KM framework tailored for cross-
 
 ## ✨ What's Inside
 
-- `framework/`: A practical KM framework in Markdown
-- `playbook/`: A hands-on playbook version to implement the framework
-- `assets/`: Visual assets for use in slides, documentation, or internal evangelism
+- [`framework/`](https://github.com/will-kelly/knowledge-management-framework/tree/main/framework): A practical KM framework in Markdown
+- [`playbook/`](https://github.com/will-kelly/knowledge-management-framework/tree/main/playbook): A hands-on playbook version to implement the framework
 
 ## 📌 Quick Start
 
-1. Clone the repo
-2. Read `framework/Practical_Knowledge_Management_Framework.md`
+1. Clone the repo  
+   `git clone https://github.com/will-kelly/knowledge-management-framework.git`
+2. Read [`framework/Practical_Knowledge_Management_Framework.md`](https://github.com/will-kelly/knowledge-management-framework/blob/main/framework/Practical_Knowledge_Management_Framework.md)
 3. Use the playbook to pilot a KM use case in your team
 4. Share, iterate, and reuse!
 
 ## 🤝 Contributing
 
-PRs welcome for implementation guides, case studies, or Notion/Confluence templates.
+Pull requests welcome for implementation guides, case studies, or Notion/Confluence templates.
 
 ---
 
